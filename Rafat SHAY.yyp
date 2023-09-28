@@ -3,7 +3,9 @@
   "resourceVersion": "1.6",
   "name": "Rafat SHAY",
   "resources": [
+    {"id":{"name":"it_obj","path":"objects/it_obj/it_obj.yy",},"order":1,},
     {"id":{"name":"let","path":"sprites/let/let.yy",},"order":0,},
+    {"id":{"name":"IT","path":"sprites/IT/IT.yy",},"order":1,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
